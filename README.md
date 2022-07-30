@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I am Pelagia
+
+- 🌱 I’m currently learning HTML, CSS, JS, python
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-kovalenko&show_icons=true&theme=tokyonight)
